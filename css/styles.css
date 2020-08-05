@@ -1,0 +1,26 @@
+h1 {
+  color: brown;
+  background-color: tan;
+  text-align: center;
+}
+
+h2.intro {
+  color: blue;
+  text-align: center;
+}
+
+p.intro {
+  background-color: tan;
+  color: brown;
+}
+
+p {
+  color: blue;
+}
+
+img.intro {
+  text-align: center;
+  border-color: green;
+  width: 100px;
+  height: 100px;
+}
