@@ -4,12 +4,12 @@ h1 {
   text-align: center;
 }
 
-h2.intro {
+h2 {
   color: blue;
   text-align: center;
 }
 
-p.intro {
+.intro {
   background-color: tan;
   color: brown;
 }
@@ -18,9 +18,7 @@ p {
   color: blue;
 }
 
-img.intro {
-  text-align: center;
-  border-color: green;
+img {
   width: 100px;
   height: 100px;
 }
